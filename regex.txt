@@ -1,0 +1,18 @@
+# AdguardMobileAds
+#
+# Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+# Last converted - Tue, 22 Aug 2023 10:26:48 +0100
+#
+
+0.0.0.0 crazygames.com
+0.0.0.0 poki.com
+0.0.0.0 gamez6.comveedi.com
+0.0.0.0 musical.ly
+0.0.0.0 chatroulette.com
+0.0.0.0 omegle.com
+0.0.0.0 gvt1.com
+0.0.0.0 enjoy4fun.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 googlevideo.com
