@@ -1,6 +1,6 @@
 # Seriald's Blocklist
-# Last Modified 2023-08-31 - 19:40:00
-# Blocks Tiktok, Youtube, Omegle, Chatroulette, and various online games
+# Last Modified 2023-09-17 - 19:27:00
+# Blocks Omegle, Chatroulette, and various online games
 #
 
 0.0.0.0 crazygames.com
