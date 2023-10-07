@@ -1,0 +1,13 @@
+# Seriald's Blocklist
+# Last Modified 2023-09-17 - 19:27:00
+# Blocks Omegle, Chatroulette, and various online games
+#
+
+0.0.0.0 crazygames.com
+0.0.0.0 poki.com
+0.0.0.0 gamez6.comveedi.com
+0.0.0.0 musical.ly
+0.0.0.0 chatroulette.com
+0.0.0.0 omegle.com
+0.0.0.0 gvt1.com
+0.0.0.0 enjoy4fun.com
