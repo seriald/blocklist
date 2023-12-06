@@ -11,3 +11,4 @@
 0.0.0.0 omegle.com
 0.0.0.0 gvt1.com
 0.0.0.0 enjoy4fun.com
+0.0.0.0 api.roku.com
