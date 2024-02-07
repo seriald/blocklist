@@ -1,5 +1,5 @@
 # Seriald's Blocklist
-# Last Modified 2023-09-17 - 19:27:00
+# Last Modified 2024-02-07 - 18:47:00
 # Blocks Omegle, Chatroulette, and various online games
 #
 
@@ -12,3 +12,5 @@
 0.0.0.0 gvt1.com
 0.0.0.0 enjoy4fun.com
 0.0.0.0 api.roku.com
+0.0.0.0 geometry-lite.co
+0.0.0.0 geometrydash.io
