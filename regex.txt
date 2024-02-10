@@ -72,3 +72,4 @@
 0.0.0.0 api.roku.com
 0.0.0.0 geometry-lite.co
 0.0.0.0 geometrydash.io
+0.0.0.0 geometrydashlite.io
