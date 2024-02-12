@@ -15,4 +15,6 @@
 0.0.0.0 geometry-lite.co
 0.0.0.0 geometrydash.io
 0.0.0.0 geometrydashlite.io
-0.0.0.0 geometrydashlite.net
+0.0.0.0 geometrydash.net
+0.0.0.0 pogo.com
+0.0.0.0 arkadium.com
