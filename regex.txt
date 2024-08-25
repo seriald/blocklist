@@ -11,19 +11,17 @@
 # 
 #
 
-0.0.0.0 crazygames.com
-0.0.0.0 poki.com
-0.0.0.0 gamez6.comveedi.com
-0.0.0.0 musical.ly
+# Video Services
 0.0.0.0 chatroulette.com
 0.0.0.0 omegle.com
-0.0.0.0 gvt1.com
-0.0.0.0 enjoy4fun.com
+
 0.0.0.0 youtube.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 googlevideo.com
 0.0.0.0 s.youtube.com
 0.0.0.0 youtubei.googleapis.com
+0.0.0.0 gvt1.com
+0.0.0.0 enjoy4fun.com
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktok.com
@@ -70,6 +68,12 @@
 0.0.0.0 webcast19-normal-c-useast1a.tiktokv.com
 0.0.0.0 webcast22-ws-useast1a.tiktokv.com
 0.0.0.0 api.roku.com
+
+# Games 
+0.0.0.0 crazygames.com
+0.0.0.0 poki.com
+0.0.0.0 gamez6.comveedi.com
+0.0.0.0 musical.ly
 0.0.0.0 geometry-lite.co
 0.0.0.0 geometrydash.io
 0.0.0.0 geometrydashlite.io
@@ -77,3 +81,5 @@
 0.0.0.0 geometrydash.net
 0.0.0.0 pogo.com
 0.0.0.0 arkadium.com
+0.0.0.0 twoplayergames.org
+0.0.0.0 coolmathgames.com

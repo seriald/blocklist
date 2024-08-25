@@ -1,8 +1,9 @@
 # Seriald's Blocklist
-# Last Modified 2024-02-07 - 18:47:00
+# Last Modified 2024-08-25 - 16:18:00
 # Blocks Omegle, Chatroulette, and various online games
 #
 
+# Games 
 0.0.0.0 crazygames.com
 0.0.0.0 poki.com
 0.0.0.0 gamez6.comveedi.com
@@ -18,3 +19,5 @@
 0.0.0.0 geometrydash.net
 0.0.0.0 pogo.com
 0.0.0.0 arkadium.com
+0.0.0.0 twoplayergames.org
+0.0.0.0 coolmathgames.com
