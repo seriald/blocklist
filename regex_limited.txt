@@ -37,3 +37,4 @@
 
 # Other Sites
 0.0.0.0 reddit.org
+0.0.0.0 ww*.reddit.org
