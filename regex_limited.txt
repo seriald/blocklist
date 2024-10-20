@@ -34,4 +34,6 @@
 0.0.0.0 exp-tas.com
 0.0.0.0 www.twoplayergames.org.vitori.org
 
-twoplayergames.org
+
+# Other Sites
+0.0.0.0 reddit.org
