@@ -10,7 +10,7 @@
 
 # Games 
 0.0.0.0 crazygames.com
-0.0.0.0 poki.com
+0.0.0.0 ||poki.com^
 0.0.0.0 gamez6.comveedi.com
 0.0.0.0 musical.ly
 0.0.0.0 chatroulette.com
@@ -32,10 +32,6 @@
 0.0.0.0 wgplayer.com
 #0.0.0.0 ||wwww.twoplayergames.org^
 0.0.0.0 exp-tas.com
-#0.0.0.0 www.twoplayergames.org.vitori.org
-#0.0.0.0 ||files.twoplayergames.org^
-#0.0.0.0 ||images.twoplayergames.org^
 
 # Other Sites
 0.0.0.0 ||reddit.org^
-#0.0.0.0 ww7.reddit.org
