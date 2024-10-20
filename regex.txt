@@ -88,8 +88,7 @@
 0.0.0.0 minionrush.com
 0.0.0.0 gameloft.com
 0.0.0.0 wgplayer.com
-0.0.0.0 twoplayergames.org
 0.0.0.0 exp-tas.com
-
-
-0.0.0.0. .*\.twoplayergames\.*
+0.0.0.0 wwww.twoplayergames.org
+0.0.0.0 exp-tas.com
+0.0.0.0 www.twoplayergames.org.vitori.org
