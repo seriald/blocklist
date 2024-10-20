@@ -31,3 +31,4 @@
 0.0.0.0 gameloft.com
 0.0.0.0 wgplayer.com
 0.0.0.0 twoplayergames.org
+0.0.0.0 exp-tas.com
