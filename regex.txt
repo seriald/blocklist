@@ -68,7 +68,7 @@
 #0.0.0.0 webcast16-ws-useast1a.tiktokv.com
 #0.0.0.0 webcast19-normal-c-useast1a.tiktokv.com
 #0.0.0.0 webcast22-ws-useast1a.tiktokv.com
-0.0.0.0 \\api.roku.com^
+0.0.0.0 ||api.roku.com^
 
 # Games 
 0.0.0.0 ||crazygames.com^
