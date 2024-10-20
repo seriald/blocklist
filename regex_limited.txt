@@ -1,7 +1,12 @@
 # Seriald's Blocklist
-# Last Modified 2024-08-25 - 16:18:00
+# seriald@vitori.org
+# Last Modified 2024-10-20 - 09:54:00
 # Blocks Omegle, Chatroulette, and various online games
 #
+
+# Video Services
+0.0.0.0 chatroulette.com
+0.0.0.0 omegle.com
 
 # Games 
 0.0.0.0 crazygames.com
@@ -21,3 +26,4 @@
 0.0.0.0 arkadium.com
 0.0.0.0 twoplayergames.org
 0.0.0.0 coolmathgames.com
+0.0.0.0 narrow-one.com
