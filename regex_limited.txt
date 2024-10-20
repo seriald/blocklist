@@ -30,11 +30,11 @@
 0.0.0.0 minionrush.com
 0.0.0.0 gameloft.com
 0.0.0.0 wgplayer.com
-#0.0.0.0 ||wwww.twoplayergames.org
+0.0.0.0 ||wwww.twoplayergames.org^
 0.0.0.0 exp-tas.com
 #0.0.0.0 www.twoplayergames.org.vitori.org
-#0.0.0.0 ||files.twoplayergames.org
-#0.0.0.0 ||images.twoplayergames.org
+0.0.0.0 ||files.twoplayergames.org^
+0.0.0.0 ||images.twoplayergames.org^
 
 # Other Sites
 0.0.0.0 ||reddit.org^

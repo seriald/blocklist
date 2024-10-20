@@ -82,17 +82,10 @@
 0.0.0.0 geometrydash.net
 0.0.0.0 pogo.com
 0.0.0.0 arkadium.com
-0.0.0.0 twoplayergames.org
+0.0.0.0 ||twoplayergames.org^
 0.0.0.0 coolmathgames.com
 0.0.0.0 narrow-one.com
 0.0.0.0 minionrush.com
 0.0.0.0 gameloft.com
 0.0.0.0 wgplayer.com
 0.0.0.0 exp-tas.com
-0.0.0.0 wwww.twoplayergames.org
-0.0.0.0 exp-tas.com
-0.0.0.0 www.twoplayergames.org.vitori.org
-
-# Other Sites
-0.0.0.0 reddit.org
-0.0.0.0 ww7.reddit.org
