@@ -89,3 +89,10 @@
 0.0.0.0 ||gameloft.com^
 0.0.0.0 ||wgplayer.com^
 0.0.0.0 ||exp-tas.com^
+
+#Whitelistings
+#@@||track.spe.schoolmessenger.com^
+@@||schoolmessenger.com^
+@@||sanalytics.disneyplus.com^
+@@||awstrack.me^
+@@||redirector.googlevideo.com^
