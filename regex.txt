@@ -92,7 +92,7 @@
 
 # Whitelistings
 # 0.0.0.0 @@||track.spe.schoolmessenger.com^
-# 0.0.0.0 @@schoolmessenger.com^
+|schoolmessenger.com^
 # 0.0.0.0 @@||sanalytics.disneyplus.com^
 # 0.0.0.0 @@||awstrack.me^
 # 0.0.0.0 @@||redirector.googlevideo.com^
