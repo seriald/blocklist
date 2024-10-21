@@ -96,4 +96,3 @@
 # 0.0.0.0 @@||sanalytics.disneyplus.com^
 # 0.0.0.0 @@||awstrack.me^
 # 0.0.0.0 @@||redirector.googlevideo.com^
-^vitori.org$
