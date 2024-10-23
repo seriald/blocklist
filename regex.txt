@@ -16,12 +16,12 @@
 0.0.0.0 ||chatroulette.com^
 0.0.0.0 ||omegle.com^
 
-0.0.0.0 youtube.com
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 googlevideo.com
+0.0.0.0 ||youtube.com^
+0.0.0.0 ||youtubei.googleapis.com^
+0.0.0.0 ||googlevideo.com^
 0.0.0.0 s.youtube.com
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 gvt1.com
+0.0.0.0 ||googleapis.com^
+0.0.0.0 ||gvt1.com^
 0.0.0.0 ||enjoy4fun.com^
 0.0.0.0 ||tiktokv.com^
 0.0.0.0 ||tiktokcdn.com^
