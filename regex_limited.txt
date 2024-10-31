@@ -30,6 +30,8 @@
 0.0.0.0 ||wgplayer.com^
 #0.0.0.0 ||wwww.twoplayergames.org^
 0.0.0.0 ||exp-tas.com^
+0.0.0.0 ||playhop.com^
+
 
 # Other Sites
 0.0.0.0 ||reddit.org^
