@@ -20,7 +20,7 @@
 0.0.0.0 ||youtubei.googleapis.com^
 0.0.0.0 ||googlevideo.com^
 0.0.0.0 ||yt3.ggpht.com^
-0.0.0.0 ||googleapis.com^
+#0.0.0.0 ||googleapis.com^
 0.0.0.0 ||gvt1.com^
 0.0.0.0 ||enjoy4fun.com^
 0.0.0.0 ||tiktokv.com^
