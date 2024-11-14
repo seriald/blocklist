@@ -90,6 +90,7 @@
 0.0.0.0 ||wgplayer.com^
 0.0.0.0 ||exp-tas.com^
 0.0.0.0 ||playhop.com^
+0.0.0.0 ||1001games.com^
 
 
 # Whitelistings

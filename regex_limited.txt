@@ -31,6 +31,7 @@
 #0.0.0.0 ||wwww.twoplayergames.org^
 0.0.0.0 ||exp-tas.com^
 0.0.0.0 ||playhop.com^
+0.0.0.0 ||1001games.com^
 
 
 # Other Sites
