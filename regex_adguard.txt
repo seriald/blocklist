@@ -1,0 +1,101 @@
+# Seriald's Blocklist
+# seriald@vitori.org
+# Last Modified 2024-10-30
+## Blocks Tiktok, Youtube, Omegle, Chatroulette, and various online games
+#
+# https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
+# https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+# https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt
+# https://someonewhocares.org/hosts/zero/hosts
+# https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0
+# https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+# 
+#
+
+# Video Services
+||chatroulette.com^
+||omegle.com^
+
+||youtube.com^
+||youtubei.googleapis.com^
+||googlevideo.com^
+||yt3.ggpht.com^
+#||googleapis.com^
+||gvt1.com^
+||enjoy4fun.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||tiktok.com^
+#api16-core-c-useast1a.tiktokv.com
+#api16-core.tiktokv.com
+#api16-normal-c-useast1a.tiktokv.com
+#api19-core-c-useast1a.tiktokv.com
+#api19-normal-c-useast1a.tiktokv.com
+#api22-core.tiktokv.com
+#bsync-va.tiktokv.com
+#frontier-va.tiktokv.com
+#gecko16-normal-useast1a.tiktokv.com
+#gecko31-normal-useast1a.tiktokv.com
+#hotapi19-normal-useast1a.tiktokv.com
+#jsb16-normal-useast1a.tiktokv.com
+#jsb31-normal-useast1a.tiktokv.com
+#lf16-gecko-source.tiktokcdn.com
+#libra19-normal-useast1a.tiktokv.com
+#log19-normal-useast1a.tiktokv.com
+#log22-normal-useast1a.tiktokv.com
+#mon15-normal-useast1a.tiktokv.com
+#mon16-normal-useast1a.tiktokv.com
+#mssdk16-normal-useast1a.tiktokv.com
+#p16-amd-va.tiktokcdn.com
+#p16-sign-sg.tiktokcdn.com
+#p16-sign-va.tiktokcdn.com
+#p16-useast2a.tiktokcdn.com
+#pitaya-task-va.tiktokv.com
+#pitaya-va.tiktokv.com
+#pull-f5-va01.tiktokcdn.com
+#sf-profit.tiktokcdn.com
+#sf16-sg.tiktokcdn.com
+#tnc16-platform-alisg.tiktokv.com
+#tnc16-platform-useast1a.tiktokv.com
+#tnc31-platform-useast1a.tiktokv.com
+#v16-cla.tiktokcdn.com
+#v16m.tiktokcdn.com
+#v19.tiktokcdn.com
+#v39-ca.tiktokcdn.com
+#v77.tiktokcdn.com
+#vcs-va.tiktokv.com
+#webcast16-normal-c-useast1a.tiktokv.com
+#webcast16-ws-useast1a.tiktokv.com
+#webcast19-normal-c-useast1a.tiktokv.com
+#webcast22-ws-useast1a.tiktokv.com
+||api.roku.com^
+
+# Games 
+||crazygames.com^
+||poki.com^
+||gamez6.comveedi.com^
+||musical.ly^
+||geometry-lite.co^
+||geometrydash.io^
+||geometrydashlite.io^
+||geometrydashlite.net^
+||geometrydash.net^
+||pogo.com^
+||arkadium.com^
+||twoplayergames.org^
+||coolmathgames.com^
+||narrow-one.com^
+||minionrush.com^
+||gameloft.com^
+||wgplayer.com^
+||exp-tas.com^
+||playhop.com^
+||1001games.com^
+
+
+# Whitelistings
+# ||track.spe.schoolmessenger.com^
+# ||schoolmessenger.com^
+# @@||sanalytics.disneyplus.com^
+# @@||awstrack.me^
+# @@||redirector.googlevideo.com^

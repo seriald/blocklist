@@ -1,0 +1,12 @@
+# Seriald's Whitelist
+# Last Modified 2024-11-24
+# 
+
+# Games 
+||track.spe.schoolmessenger.com^
+# ||schoolmessenger.com^
+||sanalytics.disneyplus.com^
+||awstrack.me^
+||redirector.googlevideo.com^
+||embeddedassistant.googleapis.com^
+||sdk.iad-03.braze.com^
