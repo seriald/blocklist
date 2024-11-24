@@ -1,7 +1,6 @@
-# Seriald's Blocklist
-# Last Modified 2024-08-25 - 16:18:00
-# Blocks Omegle, Chatroulette, and various online games
-#
+# Seriald's Whitelist
+# Last Modified 2024-11-24
+# 
 
 # Games 
 0.0.0.0 ||track.spe.schoolmessenger.com^
