@@ -4,21 +4,9 @@
 #
 
 # Games 
-0.0.0.0 crazygames.com
-0.0.0.0 poki.com
-0.0.0.0 gamez6.comveedi.com
-0.0.0.0 musical.ly
-0.0.0.0 chatroulette.com
-0.0.0.0 omegle.com
-0.0.0.0 gvt1.com
-0.0.0.0 enjoy4fun.com
-0.0.0.0 api.roku.com
-0.0.0.0 geometry-lite.co
-0.0.0.0 geometrydash.io
-0.0.0.0 geometrydashlite.io
-0.0.0.0 geometrydash.net
-0.0.0.0 pogo.com
-0.0.0.0 arkadium.com
-0.0.0.0 twoplayergames.org
-0.0.0.0 coolmathgames.com
-0.0.0.0 embeddedassistant.googleapis.com
+0.0.0.0 ||track.spe.schoolmessenger.com^
+# ||schoolmessenger.com^
+0.0.0.0 ||sanalytics.disneyplus.com^
+0.0.0.0 ||awstrack.me^
+0.0.0.0 ||redirector.googlevideo.com^
+0.0.0.0 ||embeddedassistant.googleapis.com^
