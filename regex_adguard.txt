@@ -91,6 +91,8 @@
 ||exp-tas.com^
 ||playhop.com^
 ||1001games.com^
+||webgames.io^
+||craftnite.io^
 
 
 # Whitelistings
