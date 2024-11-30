@@ -93,7 +93,7 @@
 0.0.0.0 ||1001games.com^
 0.0.0.0 ||webgames.io^
 0.0.0.0 ||craftnite.io^
-
+0.0.0.0 ||onlinegames.io^
 
 # Whitelistings
 # 0.0.0.0 ||track.spe.schoolmessenger.com^
