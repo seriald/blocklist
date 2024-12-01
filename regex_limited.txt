@@ -35,6 +35,7 @@
 0.0.0.0 ||webgames.io^
 0.0.0.0 ||craftnite.io^
 0.0.0.0 ||onlinegames.io^
+0.0.0.0 ||tagpro.gg^
 
 
 # Other Sites
