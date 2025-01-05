@@ -10,3 +10,7 @@
 0.0.0.0 ||redirector.googlevideo.com^
 0.0.0.0 ||embeddedassistant.googleapis.com^
 0.0.0.0 ||sdk.iad-03.braze.com^
+0.0.0.0 ||update.microsoft.com^
+0.0.0.0 ||windowsupdate.microsoft.com^
+0.0.0.0 ||windowsupdate.com^
+0.0.0.0 ||download.windowsupdate.com^
