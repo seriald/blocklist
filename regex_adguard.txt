@@ -95,6 +95,7 @@
 ||craftnite.io^
 ||onlinegames.io^
 ||tagpro.gg^
+||bloxd.io^
 
 
 # Whitelistings

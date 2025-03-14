@@ -36,7 +36,7 @@
 0.0.0.0 ||craftnite.io^
 0.0.0.0 ||onlinegames.io^
 0.0.0.0 ||tagpro.gg^
-
+0.0.0.0 ||bloxd.io^
 
 # Other Sites
 0.0.0.0 ||reddit.org^
