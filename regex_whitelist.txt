@@ -3,15 +3,15 @@
 # 
 
 # Games 
- ||track.spe.schoolmessenger.com^
- ||schoolmessenger.com^
- ||sanalytics.disneyplus.com^
- ||awstrack.me^
- ||redirector.googlevideo.com^
- ||embeddedassistant.googleapis.com^
-0.0.0.0 ||sdk.iad-03.braze.com^
-0.0.0.0 ||update.microsoft.com^
-0.0.0.0 ||windowsupdate.microsoft.com^
-0.0.0.0 ||windowsupdate.com^
-0.0.0.0 ||download.windowsupdate.com^
+track.spe.schoolmessenger.com
+schoolmessenger.com
+sanalytics.disneyplus.com
+awstrack.me
+redirector.googlevideo.com
+embeddedassistant.googleapis.com
+sdk.iad-03.braze.com
+update.microsoft.com
+windowsupdate.microsoft.com
+windowsupdate.com
+download.windowsupdate.com
 #track.spe.schoolmessenger.com/f/a/5XUAQOhDNZ-V3MQyzuLBaQ~~/AAAAARA~/gCjH4pIiKLb1KG7H5HJanclLfCDeTwEH9FA4Sw1n_o9KvYmSzy60iTtaBV-OQGzhUkxulf9x4BvnwCyD9Z2AsVdRiijmUIwigeNx28IhALwDTlkcxE_KNN1Fsnc8SZw2kVQx8l-Tfxs36AvHWze8wlKlHc_rH2MbWcqYoyQgAmz5exnpXtcW7YxRxNWZc3bA2eRrzBoNMANyJ5lPhMrskXyRufmg1kqKJEpuNEtHeYm-o9797gQ8uQt77ciFDxe9
