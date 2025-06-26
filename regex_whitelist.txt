@@ -3,12 +3,12 @@
 # 
 
 # Games 
-0.0.0.0 ||track.spe.schoolmessenger.com^
-0.0.0.0 ||schoolmessenger.com^
-0.0.0.0 ||sanalytics.disneyplus.com^
-0.0.0.0 ||awstrack.me^
-0.0.0.0 ||redirector.googlevideo.com^
-0.0.0.0 ||embeddedassistant.googleapis.com^
+ ||track.spe.schoolmessenger.com^
+ ||schoolmessenger.com^
+ ||sanalytics.disneyplus.com^
+ ||awstrack.me^
+ ||redirector.googlevideo.com^
+ ||embeddedassistant.googleapis.com^
 0.0.0.0 ||sdk.iad-03.braze.com^
 0.0.0.0 ||update.microsoft.com^
 0.0.0.0 ||windowsupdate.microsoft.com^
