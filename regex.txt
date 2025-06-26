@@ -95,6 +95,7 @@
 0.0.0.0 ||craftnite.io^
 0.0.0.0 ||onlinegames.io^
 0.0.0.0 ||tagpro.gg^
+0.0.0.0 ||bloxd.io^
 
 # Whitelistings
 # 0.0.0.0 ||track.spe.schoolmessenger.com^
