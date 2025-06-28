@@ -14,5 +14,6 @@ update.microsoft.com
 windowsupdate.microsoft.com
 windowsupdate.com
 download.windowsupdate.com
-r1---sn-ux3n588t-mjhd.gvt1.com
+gvt1.com
+#r1---sn-ux3n588t-mjhd.gvt1.com
 #track.spe.schoolmessenger.com
