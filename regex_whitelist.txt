@@ -3,14 +3,17 @@
 # 
 
 # Games 
-0.0.0.0 ||track.spe.schoolmessenger.com^
-# ||schoolmessenger.com^
-0.0.0.0 ||sanalytics.disneyplus.com^
-0.0.0.0 ||awstrack.me^
-0.0.0.0 ||redirector.googlevideo.com^
-0.0.0.0 ||embeddedassistant.googleapis.com^
-0.0.0.0 ||sdk.iad-03.braze.com^
-0.0.0.0 ||update.microsoft.com^
-0.0.0.0 ||windowsupdate.microsoft.com^
-0.0.0.0 ||windowsupdate.com^
-0.0.0.0 ||download.windowsupdate.com^
+track.spe.schoolmessenger.com
+schoolmessenger.com
+sanalytics.disneyplus.com
+awstrack.me
+redirector.googlevideo.com
+embeddedassistant.googleapis.com
+sdk.iad-03.braze.com
+update.microsoft.com
+windowsupdate.microsoft.com
+windowsupdate.com
+download.windowsupdate.com
+gvt1.com
+#r1---sn-ux3n588t-mjhd.gvt1.com
+#track.spe.schoolmessenger.com
