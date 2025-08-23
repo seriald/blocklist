@@ -23,9 +23,9 @@
 #||googleapis.com^
 #||gvt1.com^
 ||enjoy4fun.com^
-||tiktokv.com^
-||tiktokcdn.com^
-||tiktok.com^
+#||tiktokv.com^
+#||tiktokcdn.com^
+#||tiktok.com^
 #api16-core-c-useast1a.tiktokv.com
 #api16-core.tiktokv.com
 #api16-normal-c-useast1a.tiktokv.com
