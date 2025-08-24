@@ -16,7 +16,7 @@
 ||chatroulette.com^
 ||omegle.com^
 
-||youtube.com^
+#||youtube.com^
 #||youtubei.googleapis.com^
 #||googlevideo.com^
 ||yt3.ggpht.com^
