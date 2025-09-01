@@ -97,6 +97,8 @@
 ||tagpro.gg^
 ||bloxd.io^
 ||kour.io^
+||yandex.com^
+||clash3d.com^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^
