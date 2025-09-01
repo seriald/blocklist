@@ -100,7 +100,9 @@
 0.0.0.0 ||yandex.com^
 0.0.0.0 ||clash3d.com^
 0.0.0.0 ||miniplay.com^
-
+0.0.0.0 ||gamepix.com^
+0.0.0.0 ||silvergames.com^
+0.0.0.0 ||bestchange.com^
 
 # Whitelistings
 # 0.0.0.0 ||track.spe.schoolmessenger.com^
