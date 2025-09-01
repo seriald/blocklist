@@ -96,6 +96,7 @@
 ||onlinegames.io^
 ||tagpro.gg^
 ||bloxd.io^
+||kour.io^
 
 
 # Whitelistings

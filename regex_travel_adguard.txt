@@ -96,7 +96,7 @@
 ||onlinegames.io^
 ||tagpro.gg^
 ||bloxd.io^
-
+||kour.io^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^
