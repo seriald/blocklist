@@ -40,6 +40,7 @@
 0.0.0.0 ||kour.io^
 0.0.0.0 ||yandex.com^
 0.0.0.0 ||clash3d.com^
+0.0.0.0 ||miniplay.com^
 
 # Other Sites
 0.0.0.0 ||reddit.org^

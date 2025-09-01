@@ -99,6 +99,7 @@
 ||kour.io^
 ||yandex.com^
 ||clash3d.com^
+||miniplay.com^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^
