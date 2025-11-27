@@ -103,6 +103,8 @@
 ||gamepix.com^
 ||silvergames.com^
 ||bestchange.com^
+||dab3games.com^
+||lagged.com^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^

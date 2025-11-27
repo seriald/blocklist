@@ -103,6 +103,8 @@
 0.0.0.0 ||gamepix.com^
 0.0.0.0 ||silvergames.com^
 0.0.0.0 ||bestchange.com^
+0.0.0.0 ||dab3games.com^
+0.0.0.0 ||lagged.com^
 
 # Whitelistings
 # 0.0.0.0 ||track.spe.schoolmessenger.com^
