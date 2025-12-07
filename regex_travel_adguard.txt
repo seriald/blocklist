@@ -105,6 +105,16 @@
 ||bestchange.com^
 ||dab3games.com^
 ||lagged.com^
+||steal-brainrot.io^
+||dashmetry.com^
+||craft-games.com^
+||craft-games.io^
+||mine-craft.io^
+||starve.io^
+||iogames.onl^
+||crazygames.com^
+||webgames.io^
+||poki.com^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^
