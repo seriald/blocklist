@@ -44,7 +44,7 @@
 0.0.0.0 ||gamepix.com^
 0.0.0.0 ||silvergames.com^
 0.0.0.0 ||bestchange.com^
-
+0.0.0.0 ||clickergamesaz.io^
 
 # Other Sites
 0.0.0.0 ||reddit.org^

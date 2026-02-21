@@ -103,6 +103,7 @@
 ||gamepix.com^
 ||silvergames.com^
 ||bestchange.com^
+||clickergamesaz.io^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^
