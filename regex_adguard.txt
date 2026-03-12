@@ -104,6 +104,7 @@
 ||silvergames.com^
 ||bestchange.com^
 ||clickergamesaz.io^
+||soccerrandom.io.com^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^

@@ -57,6 +57,7 @@
 0.0.0.0 ||crazygames.com^
 0.0.0.0 ||webgames.io^
 0.0.0.0 ||poki.com^
+0.0.0.0 ||soccerrandom.io.com^
 
 # Other Sites
 0.0.0.0 ||reddit.org^

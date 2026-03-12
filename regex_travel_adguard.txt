@@ -116,6 +116,7 @@
 ||webgames.io^
 ||poki.com^
 ||clickergamesaz.io^
+||soccerrandom.io.com^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^
