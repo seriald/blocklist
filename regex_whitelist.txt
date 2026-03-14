@@ -1,5 +1,5 @@
 # Seriald's Whitelist
-# Last Modified 2025-01-04
+# Last Modified 2026-03-14
 # 
 
 # Games 
@@ -17,4 +17,4 @@ download.windowsupdate.com
 gvt1.com
 #r1---sn-ux3n588t-mjhd.gvt1.com
 track.spe.schoolmessenger.com
-crtk.klclick.com
+ctrk.klclick.com
