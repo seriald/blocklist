@@ -4,7 +4,7 @@
 
 # Games 
 ||track.spe.schoolmessenger.com^
-# ||schoolmessenger.com^
+||schoolmessenger.com^
 ||sanalytics.disneyplus.com^
 ||awstrack.me^
 ||redirector.googlevideo.com^
@@ -14,3 +14,4 @@
 ||windowsupdate.microsoft.com^
 ||windowsupdate.com^
 ||download.windowsupdate.com^
+||crtk.klclick.com^
