@@ -105,6 +105,8 @@
 ||bestchange.com^
 ||clickergamesaz.io^
 ||soccerrandom.io.com^
+||minefun.io^
+||tsunamis.io^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^

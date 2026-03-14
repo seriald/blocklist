@@ -58,6 +58,8 @@
 0.0.0.0 ||webgames.io^
 0.0.0.0 ||poki.com^
 0.0.0.0 ||soccerrandom.io.com^
+0.0.0.0 ||minefun.io^
+0.0.0.0 ||tsunamis.io^
 
 # Other Sites
 0.0.0.0 ||reddit.org^
