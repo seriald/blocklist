@@ -119,6 +119,13 @@
 ||soccerrandom.io.com^
 ||minefun.io^
 ||tsunamis.io^
+||yoplay.io^
+||geometry-games.io^
+||robbrainrot.io^
+||sprunki-game.io^
+||hotgames.io^
+||brainrot-games.io^
+
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^

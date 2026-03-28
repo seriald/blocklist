@@ -60,6 +60,13 @@
 0.0.0.0 ||soccerrandom.io.com^
 0.0.0.0 ||minefun.io^
 0.0.0.0 ||tsunamis.io^
+0.0.0.0 ||yoplay.io^
+0.0.0.0 ||geometry-games.io^
+0.0.0.0 ||robbrainrot.io^
+0.0.0.0 ||sprunki-game.io^
+0.0.0.0 ||hotgames.io^
+0.0.0.0 ||brainrot-games.io^
+
 
 # Other Sites
 0.0.0.0 ||reddit.org^
