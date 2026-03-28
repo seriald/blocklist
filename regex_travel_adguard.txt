@@ -125,7 +125,10 @@
 ||sprunki-game.io^
 ||hotgames.io^
 ||brainrot-games.io^
-
+||azgames.io^
+||yandex.com^
+||playhop.com^
+||drifted.com^
 
 # Whitelistings
 # ||track.spe.schoolmessenger.com^

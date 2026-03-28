@@ -125,8 +125,10 @@
 0.0.0.0 ||sprunki-game.io^
 0.0.0.0 ||hotgames.io^
 0.0.0.0 ||brainrot-games.io^
-
-
+0.0.0.0 ||azgames.io^
+0.0.0.0 ||yandex.com^
+0.0.0.0 ||playhop.com^
+0.0.0.0 ||drifted.com^
 
 #0.0.0.0 ||poki.com^
 
