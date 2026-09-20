@@ -4,7 +4,7 @@
 
 # Games 
 track.spe.schoolmessenger.com
-schoolmessenger.com
+schoolmessenger.com^
 sanalytics.disneyplus.com
 awstrack.me
 redirector.googlevideo.com
