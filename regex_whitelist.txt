@@ -1,10 +1,9 @@
 # Seriald's Whitelist
-# Last Modified 2026-03-14
+# Last Modified 2026-09-20
 # 
 
 # Games 
-track.spe.schoolmessenger.com
-schoolmessenger.com^
+^.schoolmessenger.com
 sanalytics.disneyplus.com
 awstrack.me
 redirector.googlevideo.com
@@ -16,6 +15,5 @@ windowsupdate.com
 download.windowsupdate.com
 gvt1.com
 #r1---sn-ux3n588t-mjhd.gvt1.com
-track.spe.schoolmessenger.com
 ctrk.klclick.com
 track.pstmrk.it
