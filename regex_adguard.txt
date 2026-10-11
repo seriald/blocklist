@@ -16,9 +16,9 @@
 ||chatroulette.com^
 ||omegle.com^
 
-||youtube.com^
-||youtubei.googleapis.com^
-||googlevideo.com^
+#||youtube.com^
+#||youtubei.googleapis.com^
+#||googlevideo.com^
 ||yt3.ggpht.com^
 ||gvt1.com^
 ||enjoy4fun.com^
