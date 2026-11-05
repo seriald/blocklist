@@ -130,6 +130,28 @@
 ||playhop.com^
 ||drifted.com^
 
+||thessatatribla.com^
+||buildnow-gg.io^
+||turball.io^
+||bubblebox.com^
+||igdb.com^
+||softonic.com^
+||chatforce.com^
+||neonroof.com^
+||itch.io^
+||crazygames.com^
+||rocket-goal.io^
+||zapgames.io^
+||soccer.com^
+||ewenococo.sbs^
+||kizgame.com^
+||martiangames.com^
+||bitbucket.io^
+||construct.net^
+||vablendoth.com^
+||lagged.com^
+||updatestar.com^
+
 # Whitelistings
 # ||track.spe.schoolmessenger.com^
 # ||schoolmessenger.com^
