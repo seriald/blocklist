@@ -16,3 +16,4 @@
 ||download.windowsupdate.com^
 ||ctrk.klclick.com^
 ||track.pstmrk.it^
+||flipgive.com^
